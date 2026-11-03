@@ -80,10 +80,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## String
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/nima-hashi/neetcode-submissions-fpnl4gyv/tree/master/0316-remove-duplicate-letters) |
 | [0844-backspace-string-compare](https://github.com/nima-hashi/neetcode-submissions-fpnl4gyv/tree/master/0844-backspace-string-compare) |
 ## Stack
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/nima-hashi/neetcode-submissions-fpnl4gyv/tree/master/0316-remove-duplicate-letters) |
 | [0503-next-greater-element-ii](https://github.com/nima-hashi/neetcode-submissions-fpnl4gyv/tree/master/0503-next-greater-element-ii) |
 | [0844-backspace-string-compare](https://github.com/nima-hashi/neetcode-submissions-fpnl4gyv/tree/master/0844-backspace-string-compare) |
 | [1019-next-greater-node-in-linked-list](https://github.com/nima-hashi/neetcode-submissions-fpnl4gyv/tree/master/1019-next-greater-node-in-linked-list) |
@@ -99,10 +101,15 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Monotonic Stack
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/nima-hashi/neetcode-submissions-fpnl4gyv/tree/master/0316-remove-duplicate-letters) |
 | [0503-next-greater-element-ii](https://github.com/nima-hashi/neetcode-submissions-fpnl4gyv/tree/master/0503-next-greater-element-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/nima-hashi/neetcode-submissions-fpnl4gyv/tree/master/1019-next-greater-node-in-linked-list) |
 ## Linked List
 |  |
 | ------- |
 | [1019-next-greater-node-in-linked-list](https://github.com/nima-hashi/neetcode-submissions-fpnl4gyv/tree/master/1019-next-greater-node-in-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/nima-hashi/neetcode-submissions-fpnl4gyv/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->
