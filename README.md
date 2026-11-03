@@ -84,9 +84,18 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/nima-hashi/neetcode-submissions-fpnl4gyv/tree/master/0503-next-greater-element-ii) |
 | [0844-backspace-string-compare](https://github.com/nima-hashi/neetcode-submissions-fpnl4gyv/tree/master/0844-backspace-string-compare) |
 ## Simulation
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/nima-hashi/neetcode-submissions-fpnl4gyv/tree/master/0844-backspace-string-compare) |
+## Array
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/nima-hashi/neetcode-submissions-fpnl4gyv/tree/master/0503-next-greater-element-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/nima-hashi/neetcode-submissions-fpnl4gyv/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
