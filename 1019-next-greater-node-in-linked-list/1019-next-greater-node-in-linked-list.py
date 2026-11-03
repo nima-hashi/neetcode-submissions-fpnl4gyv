@@ -20,9 +20,6 @@ class Solution:
             stack.append([index, cur.val])
             cur = cur.next
             index += 1
-        
-        for i, v in stack:
-            greaterNodes[i] = 0
 
         return greaterNodes
 
