@@ -86,6 +86,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/nima-hashi/neetcode-submissions-fpnl4gyv/tree/master/0503-next-greater-element-ii) |
 | [0844-backspace-string-compare](https://github.com/nima-hashi/neetcode-submissions-fpnl4gyv/tree/master/0844-backspace-string-compare) |
+| [1019-next-greater-node-in-linked-list](https://github.com/nima-hashi/neetcode-submissions-fpnl4gyv/tree/master/1019-next-greater-node-in-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -94,8 +95,14 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/nima-hashi/neetcode-submissions-fpnl4gyv/tree/master/0503-next-greater-element-ii) |
+| [1019-next-greater-node-in-linked-list](https://github.com/nima-hashi/neetcode-submissions-fpnl4gyv/tree/master/1019-next-greater-node-in-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/nima-hashi/neetcode-submissions-fpnl4gyv/tree/master/0503-next-greater-element-ii) |
+| [1019-next-greater-node-in-linked-list](https://github.com/nima-hashi/neetcode-submissions-fpnl4gyv/tree/master/1019-next-greater-node-in-linked-list) |
+## Linked List
+|  |
+| ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/nima-hashi/neetcode-submissions-fpnl4gyv/tree/master/1019-next-greater-node-in-linked-list) |
 <!---LeetCode Topics End-->
