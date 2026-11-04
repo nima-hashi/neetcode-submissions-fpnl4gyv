@@ -91,15 +91,18 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0402-remove-k-digits](https://github.com/nima-hashi/neetcode-submissions-fpnl4gyv/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/nima-hashi/neetcode-submissions-fpnl4gyv/tree/master/0503-next-greater-element-ii) |
 | [0844-backspace-string-compare](https://github.com/nima-hashi/neetcode-submissions-fpnl4gyv/tree/master/0844-backspace-string-compare) |
+| [0946-validate-stack-sequences](https://github.com/nima-hashi/neetcode-submissions-fpnl4gyv/tree/master/0946-validate-stack-sequences) |
 | [1019-next-greater-node-in-linked-list](https://github.com/nima-hashi/neetcode-submissions-fpnl4gyv/tree/master/1019-next-greater-node-in-linked-list) |
 ## Simulation
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/nima-hashi/neetcode-submissions-fpnl4gyv/tree/master/0844-backspace-string-compare) |
+| [0946-validate-stack-sequences](https://github.com/nima-hashi/neetcode-submissions-fpnl4gyv/tree/master/0946-validate-stack-sequences) |
 ## Array
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/nima-hashi/neetcode-submissions-fpnl4gyv/tree/master/0503-next-greater-element-ii) |
+| [0946-validate-stack-sequences](https://github.com/nima-hashi/neetcode-submissions-fpnl4gyv/tree/master/0946-validate-stack-sequences) |
 | [1019-next-greater-node-in-linked-list](https://github.com/nima-hashi/neetcode-submissions-fpnl4gyv/tree/master/1019-next-greater-node-in-linked-list) |
 ## Monotonic Stack
 |  |
