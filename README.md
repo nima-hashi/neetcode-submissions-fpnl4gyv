@@ -83,6 +83,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0316-remove-duplicate-letters](https://github.com/nima-hashi/neetcode-submissions-fpnl4gyv/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/nima-hashi/neetcode-submissions-fpnl4gyv/tree/master/0402-remove-k-digits) |
 | [0844-backspace-string-compare](https://github.com/nima-hashi/neetcode-submissions-fpnl4gyv/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/nima-hashi/neetcode-submissions-fpnl4gyv/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Stack
 |  |
 | ------- |
@@ -91,6 +92,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0402-remove-k-digits](https://github.com/nima-hashi/neetcode-submissions-fpnl4gyv/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/nima-hashi/neetcode-submissions-fpnl4gyv/tree/master/0503-next-greater-element-ii) |
 | [0844-backspace-string-compare](https://github.com/nima-hashi/neetcode-submissions-fpnl4gyv/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/nima-hashi/neetcode-submissions-fpnl4gyv/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/nima-hashi/neetcode-submissions-fpnl4gyv/tree/master/0946-validate-stack-sequences) |
 | [1019-next-greater-node-in-linked-list](https://github.com/nima-hashi/neetcode-submissions-fpnl4gyv/tree/master/1019-next-greater-node-in-linked-list) |
 ## Simulation
@@ -120,6 +122,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/nima-hashi/neetcode-submissions-fpnl4gyv/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/nima-hashi/neetcode-submissions-fpnl4gyv/tree/master/0402-remove-k-digits) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/nima-hashi/neetcode-submissions-fpnl4gyv/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Tree
 |  |
 | ------- |
@@ -140,4 +143,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/nima-hashi/neetcode-submissions-fpnl4gyv/tree/master/0341-flatten-nested-list-iterator) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/nima-hashi/neetcode-submissions-fpnl4gyv/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
