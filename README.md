@@ -139,10 +139,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/nima-hashi/neetcode-submissions-fpnl4gyv/tree/master/0341-flatten-nested-list-iterator) |
+| [0933-number-of-recent-calls](https://github.com/nima-hashi/neetcode-submissions-fpnl4gyv/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/nima-hashi/neetcode-submissions-fpnl4gyv/tree/master/0341-flatten-nested-list-iterator) |
+| [0933-number-of-recent-calls](https://github.com/nima-hashi/neetcode-submissions-fpnl4gyv/tree/master/0933-number-of-recent-calls) |
 ## Iterator
 |  |
 | ------- |
@@ -159,4 +161,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/nima-hashi/neetcode-submissions-fpnl4gyv/tree/master/0224-basic-calculator) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/nima-hashi/neetcode-submissions-fpnl4gyv/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
